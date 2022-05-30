@@ -1,0 +1,87 @@
+Total users: 12
+Total tasks: 13
+-: -
+Username: admin
+Total user tasks: 4
+Percentage user tasks: 30.77%
+Percentage user tasks complete: 50.0%
+Percentage tasks to complete: 50.0%
+Percentage tasks overdue: 25.0%
+-: -
+Username: Tino
+Total user tasks: 3
+Percentage user tasks: 23.08%
+Percentage user tasks complete: 0.0%
+Percentage tasks to complete: 100.0%
+Percentage tasks overdue: 0.0%
+-: -
+Username: Rudo
+Total user tasks: 1
+Percentage user tasks: 7.69%
+Percentage user tasks complete: 0.0%
+Percentage tasks to complete: 100.0%
+Percentage tasks overdue: 0.0%
+-: -
+Username: t
+Total user tasks: 3
+Percentage user tasks: 23.08%
+Percentage user tasks complete: 33.33%
+Percentage tasks to complete: 66.67%
+Percentage tasks overdue: 33.33%
+-: -
+Username: John
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Rutendo
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Temba
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Jake
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Tana
+Total user tasks: 1
+Percentage user tasks: 7.69%
+Percentage user tasks complete: 0.0%
+Percentage tasks to complete: 100.0%
+Percentage tasks overdue: 0.0%
+-: -
+Username: Tiny
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Tenner
+Total user tasks: 0
+Percentage user tasks: 0%
+Percentage user tasks complete: 0%
+Percentage tasks to complete: 0%
+Percentage tasks overdue: 0%
+-: -
+Username: Topper
+Total user tasks: 1
+Percentage user tasks: 7.69%
+Percentage user tasks complete: 0.0%
+Percentage tasks to complete: 100.0%
+Percentage tasks overdue: 0.0%
+-: -

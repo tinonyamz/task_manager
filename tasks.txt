@@ -1,0 +1,14 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 October 2019, 5 May 2022, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2019, 25 October 2019, Yes
+Tino, Master coding, Know how to code like you know your right and left hand, 24 April 2022, 30 June 2022, No
+Rudo, Master Zulu, Do extra exercises to be brilliant at Zulu written and spoken, 24 April 2022, 28 May 2022, No
+Tino, Check that incorrect error, I don't know why it's coming up, 25 April 2022, 26 May 2022, No
+Tino, Just checking, I'm checking the counting of tasks, 25 April 2022, 30 May 2022, No
+admin, Add functions, Make code cleaner with the use of functions, 03 May 2022, 20 July 2022, No
+t, Just done, This is the last test, 08 May 2022, 7 May 2022, Yes
+t, Removing extra line, Remove the line causing problem, 08 May 2022, 12 May 2022, Yes
+admin, Removing spacing, Remove the increasing spacing, 08 May 2022, 10 May 2022, No
+t, Test 3, Final test, 08 May 2022, 6 July 2022, No
+Tana, Big head innit, Checking if new format works, 21 May 2022, 22 May 2022, No
+Topper, Last check, This is the last check, 21 May 2022, 21 July 2022, No
+admin, Regular user, Is it acting up, 21 May 2022, 25 May 2022, No
